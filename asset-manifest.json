@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/videographer-project/static/css/main.35174291.css",
+    "main.js": "/videographer-project/static/js/main.e66f2c44.js",
+    "static/media/Montserrat-Bold.woff": "/videographer-project/static/media/Montserrat-Bold.29338c2c9c6dfd340002.woff",
+    "static/media/Montserrat-Regular.woff": "/videographer-project/static/media/Montserrat-Regular.cecea2fa024fb0984886.woff",
+    "static/media/Montserrat-Medium.woff": "/videographer-project/static/media/Montserrat-Medium.4c9f31a2f887baf92d89.woff",
+    "static/media/Montserrat-Light.woff": "/videographer-project/static/media/Montserrat-Light.b4fde34707c4ba3d0a75.woff",
+    "static/media/Montserrat-Medium.woff2": "/videographer-project/static/media/Montserrat-Medium.e6e0b3911eadfe5cf2d6.woff2",
+    "static/media/Montserrat-Bold.woff2": "/videographer-project/static/media/Montserrat-Bold.b9d4507772c2828afb29.woff2",
+    "static/media/Montserrat-Regular.woff2": "/videographer-project/static/media/Montserrat-Regular.15d96c0b813b7c5323b2.woff2",
+    "static/media/Montserrat-Light.woff2": "/videographer-project/static/media/Montserrat-Light.23f80a866506598cd6d4.woff2",
+    "static/media/SpaceMono-Bold.woff": "/videographer-project/static/media/SpaceMono-Bold.b949b84bc8994f6bcc2e.woff",
+    "static/media/SpaceMono-Bold.woff2": "/videographer-project/static/media/SpaceMono-Bold.4076b5cca4fb8eb79ea2.woff2",
+    "index.html": "/videographer-project/index.html",
+    "static/media/checkbox.svg": "/videographer-project/static/media/checkbox.80dfb98993ba64e47006.svg",
+    "static/media/play.svg": "/videographer-project/static/media/play.940a0a0bea9e74f4ab94.svg",
+    "main.35174291.css.map": "/videographer-project/static/css/main.35174291.css.map",
+    "main.e66f2c44.js.map": "/videographer-project/static/js/main.e66f2c44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35174291.css",
+    "static/js/main.e66f2c44.js"
+  ]
+}
